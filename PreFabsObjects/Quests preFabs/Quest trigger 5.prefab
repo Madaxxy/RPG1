@@ -35,7 +35,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1050096897723192}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.14000034, y: 0.04000002, z: -0.109375}
+  m_LocalPosition: {x: 7.793773, y: -7.7045264, z: 0}
   m_LocalScale: {x: 2.0501554, y: 1.8223602, z: 1.8223602}
   m_Children: []
   m_Father: {fileID: 0}
@@ -53,7 +53,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.11334197, y: 0.14344847}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -64,7 +64,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.43328986, y: 0.4262061}
   m_EdgeRadius: 0
 --- !u!114 &114255167968828388
 MonoBehaviour:
@@ -77,6 +77,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3f5b70f39a181e449b7cefb4f760f2f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  questNumber: 5
+  questNumber: 8
   startQuest: 1
   endQuest: 0

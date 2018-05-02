@@ -752,8 +752,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e65c3f32e447c404f85ea8e1fb7c9213, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  startPoint: {fileID: 0}
   startFace: {x: 0, y: 0}
-  pointName: Test House Secret
+  pointName: 
 --- !u!4 &274337664
 Transform:
   m_ObjectHideFlags: 0
@@ -5428,8 +5429,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e65c3f32e447c404f85ea8e1fb7c9213, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  startPoint: {fileID: 0}
   startFace: {x: 0, y: 0}
-  pointName: Level
+  pointName: 
 --- !u!4 &1943371525
 Transform:
   m_ObjectHideFlags: 0
